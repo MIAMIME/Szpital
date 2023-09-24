@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPracownik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pracownik>
+    <Pracownik>asdas</Pracownik>
+    <Password />
+    <Username>asda</Username>
+    <Stanowisko>Lekarz</Stanowisko>
+    <pesel>12313121325</pesel>
+    <nr_PWZ>6436264</nr_PWZ>
+    <specjalizacja>Kardiolog</specjalizacja>
+    <praca>
+      <dateTime>2023-01-14T00:00:00</dateTime>
+      <dateTime>2023-01-15T00:00:00</dateTime>
+      <dateTime>2023-01-19T00:00:00</dateTime>
+    </praca>
+  </Pracownik>
+  <Pracownik>
+    <Pracownik>l01</Pracownik>
+    <Password />
+    <Username>Kardio</Username>
+    <Stanowisko>Lekarz</Stanowisko>
+    <pesel>12313121325</pesel>
+    <nr_PWZ>6436264</nr_PWZ>
+    <specjalizacja>Kardiolog</specjalizacja>
+    <praca>
+      <dateTime>2023-01-14T00:00:00</dateTime>
+      <dateTime>2023-01-17T00:00:00</dateTime>
+      <dateTime>2023-01-15T00:00:00</dateTime>
+      <dateTime>2023-01-19T00:00:00</dateTime>
+    </praca>
+  </Pracownik>
+  <Pracownik>
+    <Pracownik>l02</Pracownik>
+    <Password />
+    <Username>lary</Username>
+    <Stanowisko>Lekarz</Stanowisko>
+    <pesel>12313121325</pesel>
+    <nr_PWZ>6436264</nr_PWZ>
+    <specjalizacja>Laryngolog</specjalizacja>
+    <praca>
+      <dateTime>2023-01-14T00:00:00</dateTime>
+      <dateTime>2023-01-15T00:00:00</dateTime>
+    </praca>
+  </Pracownik>
+  <Pracownik>
+    <Pracownik>piel</Pracownik>
+    <Password />
+    <Username>adam</Username>
+    <Stanowisko>Pielęgniarka</Stanowisko>
+    <pesel>12354567232</pesel>
+    <praca />
+  </Pracownik>
+</ArrayOfPracownik>
